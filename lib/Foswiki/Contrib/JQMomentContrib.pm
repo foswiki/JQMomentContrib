@@ -1,6 +1,6 @@
 # Plugin for Foswiki - The Free and Open Source Wiki, http://foswiki.org/
 #
-# JQMomentContrib is Copyright (C) 2012-2013 Michael Daum http://michaeldaumconsulting.com
+# JQMomentContrib is Copyright (C) 2012-2014 Michael Daum http://michaeldaumconsulting.com
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
@@ -24,8 +24,8 @@ use warnings;
 
 =cut
 
-our $VERSION = '2.00';
-our $RELEASE = '2.00';
+our $VERSION = '2.01';
+our $RELEASE = '2.01';
 our $SHORTDESCRIPTION = 'A lightweight javascript date library for parsing, manipulating, and formatting dates';
 our $NO_PREFS_IN_TOPIC = 1;
 
@@ -38,7 +38,7 @@ call this to init the plugin from perl
 =cut
 
 sub init {
-  require Foswiki::Plugins::JQueryPlugin ();
+  require Foswiki::Plugins::JQueryPlugin;
   Foswiki::Plugins::JQueryPlugin::registerPlugin("Moment", "Foswiki::Contrib::JQMomentContrib::Core");
 }
 
