@@ -60,6 +60,7 @@ jQuery(function($) {
 %$DEPENDENCIES%
 
 ---++ Change History
+|  12 Sep 2016: | updated to moment.js 2.15.0 |
 |  02 Sep 2016: | updated to moment.js 2.14.1 |
 |  16 Dec 2014: | fixed dependency issue in jquery module loader |
 |  15 Mar 2014: | fixed syntax error in contrib stub |
