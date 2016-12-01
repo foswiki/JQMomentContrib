@@ -31,7 +31,7 @@ sub new {
     $class->SUPER::new(
       $session,
       name => 'Moment',
-      version => '2.15.0',
+      version => '2.17.0',
       author => 'Tim Wood',
       homepage => 'http://momentjs.com/',
       javascript => ['moment.js'],

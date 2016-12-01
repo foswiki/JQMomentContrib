@@ -6,6 +6,9 @@ lib/Foswiki/Contrib/JQMomentContrib.pm 0644
 pub/System/JQMomentContrib/lang/af.js 0644
 pub/System/JQMomentContrib/lang/af.js.gz 0644
 pub/System/JQMomentContrib/lang/af.uncompressed.js 0644
+pub/System/JQMomentContrib/lang/ar-dz.js 0644
+pub/System/JQMomentContrib/lang/ar-dz.js.gz 0644
+pub/System/JQMomentContrib/lang/ar-dz.uncompressed.js 0644
 pub/System/JQMomentContrib/lang/ar.js 0644
 pub/System/JQMomentContrib/lang/ar.js.gz 0644
 pub/System/JQMomentContrib/lang/ar-ly.js 0644
@@ -30,6 +33,9 @@ pub/System/JQMomentContrib/lang/be.uncompressed.js 0644
 pub/System/JQMomentContrib/lang/bg.js 0644
 pub/System/JQMomentContrib/lang/bg.js.gz 0644
 pub/System/JQMomentContrib/lang/bg.uncompressed.js 0644
+pub/System/JQMomentContrib/lang/bg-x.js 0644
+pub/System/JQMomentContrib/lang/bg-x.js.gz 0644
+pub/System/JQMomentContrib/lang/bg-x.uncompressed.js 0644
 pub/System/JQMomentContrib/lang/bn.js 0644
 pub/System/JQMomentContrib/lang/bn.js.gz 0644
 pub/System/JQMomentContrib/lang/bn.uncompressed.js 0644
@@ -214,6 +220,9 @@ pub/System/JQMomentContrib/lang/nb.uncompressed.js 0644
 pub/System/JQMomentContrib/lang/ne.js 0644
 pub/System/JQMomentContrib/lang/ne.js.gz 0644
 pub/System/JQMomentContrib/lang/ne.uncompressed.js 0644
+pub/System/JQMomentContrib/lang/nl-be.js 0644
+pub/System/JQMomentContrib/lang/nl-be.js.gz 0644
+pub/System/JQMomentContrib/lang/nl-be.uncompressed.js 0644
 pub/System/JQMomentContrib/lang/nl.js 0644
 pub/System/JQMomentContrib/lang/nl.js.gz 0644
 pub/System/JQMomentContrib/lang/nl.uncompressed.js 0644
@@ -273,6 +282,9 @@ pub/System/JQMomentContrib/lang/ta.js.gz 0644
 pub/System/JQMomentContrib/lang/ta.uncompressed.js 0644
 pub/System/JQMomentContrib/lang/te.js 0644
 pub/System/JQMomentContrib/lang/te.js.gz 0644
+pub/System/JQMomentContrib/lang/tet.js 0644
+pub/System/JQMomentContrib/lang/tet.js.gz 0644
+pub/System/JQMomentContrib/lang/tet.uncompressed.js 0644
 pub/System/JQMomentContrib/lang/te.uncompressed.js 0644
 pub/System/JQMomentContrib/lang/th.js 0644
 pub/System/JQMomentContrib/lang/th.js.gz 0644
@@ -304,9 +316,9 @@ pub/System/JQMomentContrib/lang/uz.uncompressed.js 0644
 pub/System/JQMomentContrib/lang/vi.js 0644
 pub/System/JQMomentContrib/lang/vi.js.gz 0644
 pub/System/JQMomentContrib/lang/vi.uncompressed.js 0644
-pub/System/JQMomentContrib/lang/x-pseudo.js 0644
-pub/System/JQMomentContrib/lang/x-pseudo.js.gz 0644
-pub/System/JQMomentContrib/lang/x-pseudo.uncompressed.js 0644
+pub/System/JQMomentContrib/lang/yo.js 0644
+pub/System/JQMomentContrib/lang/yo.js.gz 0644
+pub/System/JQMomentContrib/lang/yo.uncompressed.js 0644
 pub/System/JQMomentContrib/lang/zh-cn.js 0644
 pub/System/JQMomentContrib/lang/zh-cn.js.gz 0644
 pub/System/JQMomentContrib/lang/zh-cn.uncompressed.js 0644

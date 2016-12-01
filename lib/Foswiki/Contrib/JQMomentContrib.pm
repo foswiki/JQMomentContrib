@@ -24,8 +24,8 @@ use warnings;
 
 =cut
 
-our $VERSION = '3.02';
-our $RELEASE = '12 Sep 2016';
+our $VERSION = '3.04';
+our $RELEASE = '01 Dec 2016';
 our $SHORTDESCRIPTION = 'A lightweight javascript date library for parsing, manipulating, and formatting dates';
 our $NO_PREFS_IN_TOPIC = 1;
 

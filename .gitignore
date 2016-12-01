@@ -13,6 +13,7 @@ genpdf_*
 pub/System/JQMomentContrib/moment.js
 pub/System/JQMomentContrib/git/
 pub/System/JQMomentContrib/lang/af.js
+pub/System/JQMomentContrib/lang/ar-dz.js
 pub/System/JQMomentContrib/lang/ar.js
 pub/System/JQMomentContrib/lang/ar-ly.js
 pub/System/JQMomentContrib/lang/ar-ma.js
@@ -21,6 +22,7 @@ pub/System/JQMomentContrib/lang/ar-tn.js
 pub/System/JQMomentContrib/lang/az.js
 pub/System/JQMomentContrib/lang/be.js
 pub/System/JQMomentContrib/lang/bg.js
+pub/System/JQMomentContrib/lang/bg-x.js
 pub/System/JQMomentContrib/lang/bn.js
 pub/System/JQMomentContrib/lang/bo.js
 pub/System/JQMomentContrib/lang/br.js
@@ -82,6 +84,7 @@ pub/System/JQMomentContrib/lang/ms-my.js
 pub/System/JQMomentContrib/lang/my.js
 pub/System/JQMomentContrib/lang/nb.js
 pub/System/JQMomentContrib/lang/ne.js
+pub/System/JQMomentContrib/lang/nl-be.js
 pub/System/JQMomentContrib/lang/nl.js
 pub/System/JQMomentContrib/lang/nn.js
 pub/System/JQMomentContrib/lang/pa-in.js
@@ -102,6 +105,7 @@ pub/System/JQMomentContrib/lang/sv.js
 pub/System/JQMomentContrib/lang/sw.js
 pub/System/JQMomentContrib/lang/ta.js
 pub/System/JQMomentContrib/lang/te.js
+pub/System/JQMomentContrib/lang/tet.js
 pub/System/JQMomentContrib/lang/th.js
 pub/System/JQMomentContrib/lang/tlh.js
 pub/System/JQMomentContrib/lang/tl-ph.js
@@ -113,6 +117,7 @@ pub/System/JQMomentContrib/lang/uk.js
 pub/System/JQMomentContrib/lang/uz.js
 pub/System/JQMomentContrib/lang/vi.js
 pub/System/JQMomentContrib/lang/x-pseudo.js
+pub/System/JQMomentContrib/lang/yo.js
 pub/System/JQMomentContrib/lang/zh-cn.js
 pub/System/JQMomentContrib/lang/zh-hk.js
 pub/System/JQMomentContrib/lang/zh-tw.js
