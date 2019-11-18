@@ -73,7 +73,7 @@ sub init {
         Foswiki::Func::addToZone(
             'script', "MOMENT::LANG",
             <<"HERE", 'JQUERYPLUGIN::MOMENT' );
-<script type='text/javascript' src='$Foswiki::cfg{PubUrlPath}/$langPath'></script>
+<script src='$Foswiki::cfg{PubUrlPath}/$langPath'></script>
 HERE
     } else {
       #print STDERR "no translations for '$langTag'\n";
@@ -85,7 +85,7 @@ HERE
 __END__
 Foswiki - The Free and Open Source Wiki, http://foswiki.org/
 
-Copyright (C) 2012-2018 Michael Daum http://michaeldaumconsulting.com
+Copyright (C) 2012-2019 Michael Daum http://michaeldaumconsulting.com
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
