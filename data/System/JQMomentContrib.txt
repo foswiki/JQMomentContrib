@@ -61,6 +61,7 @@ jQuery(function($) {
 
 ---++ Change History
 %TABLE{columnwidths="7em" tablewidth="100%"}%
+|  10 Apr 2022: | updated to moment.js 2.29.2 |
 |  18 Nov 2019: | adjust german short month names to Foswiki standard |
 |  13 Dec 2018: | updated to moment.js 2.23.0 |
 |  12 Sep 2016: | updated to moment.js 2.15.0 |
@@ -72,7 +73,7 @@ jQuery(function($) {
 
 %META:FORM{name="PackageForm"}%
 %META:FIELD{name="Author" title="Author" value="Michael Daum"}%
-%META:FIELD{name="Copyright" title="Copyright" value="&copy; 2011-2018 Tim Wood (moment.js) &copy; 2012-2019 Michael Daum http://michaeldaumconsulting.com (foswiki stubs)"}%
+%META:FIELD{name="Copyright" title="Copyright" value="&copy; 2011-2022 Tim Wood (moment.js) &copy; 2012-2022 Michael Daum (foswiki stubs)"}%
 %META:FIELD{name="Description" title="Description" value="%25$SHORTDESCRIPTION%25"}%
 %META:FIELD{name="Home" title="Home" value="Foswiki:Extensions/%TOPIC%"}%
 %META:FIELD{name="License" title="License" value="[[http://www.gnu.org/licenses/gpl.html][GPL (Gnu General Public License)]] and MIT"}%
