@@ -1,5 +1,5 @@
 FOSWIKI_ROOT?=~/foswiki/trunk/core
-TARGET=$(shell ls ../git/locale/)
+TARGET=$(shell test -d ../git/locale && ls ../git/locale/)
 
 -include $(FOSWIKI_ROOT)/pub/System/JQueryPlugin/Makefile.include
 
